@@ -4,4 +4,4 @@ console.log(phrase);
 let annee = 2020
 
 console.log (annee)
-alert(annee)""
+alert(annee)
